@@ -105,3 +105,7 @@ Healthcare data
 ## 📌 Project Goal
 
 This project demonstrates how generative AI can be combined with structured data analysis to support practical, evidence-based decision making.
+
+**Author:** Dr Neha Malav  
+
+**Focus:** AI • Data Analytics • Decision Support
