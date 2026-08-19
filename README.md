@@ -112,3 +112,14 @@ This project demonstrates how generative AI can be combined with structured data
 **Author:** Dr Neha Malav  
 
 **Focus:** AI • Data Analytics • Decision Support
+
+## 👩‍💻 About the Author
+
+** Dr Neha Malav**
+
+Doctor building expertise at the intersection of **AI, healthcare analytics, data-driven decision making, and responsible AI**.
+
+### 🔗 Connect with Me
+
+- 💼 [LinkedIn](  https://www.linkedin.com/in/dr-neha-malav-743a25332  )
+- 🐙 [GitHub](  https://github.com/malavneha   )
