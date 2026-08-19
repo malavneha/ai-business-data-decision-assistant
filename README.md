@@ -1,6 +1,9 @@
 
 # 🤖 AI Business Data Decision Assistant
 
+**Author:** Dr Neha Malav  
+**Focus:** AI • Data Analytics • Decision Support
+
 An AI-powered decision-support application that transforms Citi Bike trip data into actionable business insights using Python, Pandas, Google Gemini, and Streamlit.
 
 ## 🎯 Project Overview
