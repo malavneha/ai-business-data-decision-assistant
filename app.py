@@ -122,4 +122,4 @@ if question:
         st.write(response.text)
 
     except Exception as e:
-    st.error(f"Gemini error: {e}")
+        st.error(f"Gemini error: {e}")
