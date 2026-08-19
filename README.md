@@ -1,4 +1,4 @@
-
+generative-ai, google-gemini, gemini-api, data-analytics, business-intelligence, decision-support, python, pandas, streamlit, data-visualization, artificial-intelligence, github
 # 🤖 AI Business Data Decision Assistant
 
 **Author:** Dr Neha Malav  
