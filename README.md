@@ -68,6 +68,9 @@ The Gemini API key is stored using Streamlit Secrets and is not included in the 
 - Which locations may require additional operational attention?
 - What business opportunities can be identified from the data?
 
+##live demo
+https://ai-business-data-decision-assistant-9npge8fe4w82t6sxghjbv7.streamlit.app/?
+
 ## google colab notebook
 
 https://colab.research.google.com/drive/1VZ4pk-4H5TBg-aNouahEH5y2VzRva_1L
