@@ -18,6 +18,15 @@ st.write(
 # Load data
 df = pd.read_csv("citibike_data.csv")
 
+# Standardize column names
+df.columns = df.columns.str.strip().str.lower()
+
+# Match the column names used by the app
+df = df.rename(columns={
+    "trip duration": "tripduration",
+    "user type": "usertype"
+})
+
 # Basic analysis
 station_demand = (
     df["start station name"]
