@@ -122,7 +122,4 @@ if question:
         st.write(response.text)
 
     except Exception as e:
-        st.error(
-            "The AI service could not be reached. "
-            "Please check the app's Gemini API configuration."
-        )
+    st.error(f"Gemini error: {e}")
